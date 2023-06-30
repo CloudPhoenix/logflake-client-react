@@ -1,6 +1,6 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
-import { LogFlakeProvider } from "@logflake/client-react"
+import { LogFlakeProvider } from "@logflake/react"
 import App from "./App"
 import "dotenv/config"
 

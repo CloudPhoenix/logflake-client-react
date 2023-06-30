@@ -1,4 +1,4 @@
-import { useLogFlake } from "@logflake/client-react"
+import { useLogFlake } from "@logflake/react"
 import React from "react"
 
 const App = () => {
