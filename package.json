@@ -1,5 +1,5 @@
 {
-  "name": "@logflake/client-react",
+  "name": "@logflake/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/cjs/index.js",
